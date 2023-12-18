@@ -1,1 +1,1 @@
-# ddd-java-sample
+# ddd-java-example
